@@ -1,7 +1,7 @@
 { ... }:
 let
   commonArgs = {
-    root = "../../.";
+    root = ../../.;
     buildInputs = [ ];
     envVars = { };
   };
