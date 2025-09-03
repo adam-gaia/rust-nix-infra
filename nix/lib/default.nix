@@ -184,7 +184,7 @@ let
       };
 
     in
-    _mkCrate craneLib pkgs {
+    _mkCrate pkgs craneLib {
       inherit
         src
         buildInputs
