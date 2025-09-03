@@ -256,11 +256,11 @@
         "treefmt-nix": "treefmt-nix"
       },
       "locked": {
-        "lastModified": 1756912992,
-        "narHash": "sha256-dYPTLGTzDGMta6loQT8B6RDhhSqQ0NHrUqtzeXQtVKo=",
+        "lastModified": 1756914175,
+        "narHash": "sha256-2q5ZgEaIgTFq6PIbr4aklu/dmE7cNmGSaVJO4qfE6xk=",
         "owner": "adam-gaia",
         "repo": "rust-nix-infra",
-        "rev": "0b21b190fd01f9624dbb4be6ac5b4d2901d990d9",
+        "rev": "8a5eeec9ddef573bd88e448e92245fed39f3e351",
         "type": "github"
       },
       "original": {
